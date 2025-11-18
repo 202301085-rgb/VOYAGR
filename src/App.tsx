@@ -3,7 +3,7 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  useNavigate,
+  
 } from "react-router-dom";
 import { ThemeProvider } from "./components/theme-provider";
 import { FlickeringGridBackground } from "./components/ui/flickering-grid-background";
